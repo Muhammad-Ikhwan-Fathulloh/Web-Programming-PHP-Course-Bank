@@ -1,0 +1,16 @@
+{
+	"name": "lintangwisesa/mvcphp",
+	"description": "a simple mvc php project",
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/"
+		},
+		"classmap": [
+			"app/"
+		]
+	},
+	"require": {
+		"symfony/routing": "^5.4",
+		"symfony/http-foundation": "^5.4"
+	}
+}
