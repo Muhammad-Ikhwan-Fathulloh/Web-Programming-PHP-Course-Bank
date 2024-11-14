@@ -1,5 +1,5 @@
 {
-	"name": "lintangwisesa/mvcphp",
+	"name": "koalawan/mvcphp",
 	"description": "a simple mvc php project",
 	"autoload": {
 		"psr-4": {
